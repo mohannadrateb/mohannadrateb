@@ -8,6 +8,7 @@
 👨‍💻 GitHub: https://github.com/mohannadrateb   
 🔗 Medium articles: https://medium.com/@mohannadrateb84
 ---
+
 ### About me
   Data sience/analytics Masters graduate from university of Hildesheim in Germany  
   Bachelors graduate in computer science and Enginnering
@@ -16,6 +17,11 @@
 * Masters in Data Science/Anlytics from university of Hildesheim in Germany
 * Bachelor Computer science and Enginnering from the german university in cairo
 * Currently studying Deutsch to reach a fluent level
+
+### Certifications 📜
+* Coursera : Generative AI with Large Language Models, Deploy machine learning into AWS cloud servers
+* Linkedin: Google Anlytics Quick Start, SQL: Data Reporting and Analysis
+  
   
 
   
