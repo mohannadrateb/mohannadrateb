@@ -5,8 +5,8 @@
 📍Germany  
 📧 Email: mohannadrateb84@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/mohannad-rateb-683736145  
-👨‍💻 GitHub: https://github.com/mohannadrateb 
-:newspaper:
+👨‍💻 GitHub: https://github.com/mohannadrateb   
+🔗 Medium articles: https://medium.com/@mohannadrateb84
 ---
 Ab
 <!--
