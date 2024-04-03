@@ -12,7 +12,13 @@
   Data sience/analytics Masters graduate from university of Hildesheim in Germany  
   Bachelors graduate in computer science and Enginnering
   
-### Education 🎓  
+### Education 🎓 
+* Masters in Data Science/Anlytics from university of Hildesheim in Germany
+* Bachelor Computer science and Enginnering from the german university in cairo
+* Currently studying Deutsch to reach a fluent level
+  
+
+  
   
 <!--
 **mohannadrateb/mohannadrateb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
