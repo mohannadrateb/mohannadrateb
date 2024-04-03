@@ -2,10 +2,10 @@
 ---
 ### Data enthusiast wether Science/Enginnering/Analytics with a focus on ML
 ---
-📍Germany
-📧 Email: mohannadrateb84@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/mohannad-rateb-683736145
-👨‍💻 GitHub: https://github.com/mohannadrateb 
+📍Germany  
+📧 Email: mohannadrateb84@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/mohannad-rateb-683736145  
+👨‍💻 GitHub: https://github.com/mohannadrateb   
 <!--
 **mohannadrateb/mohannadrateb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
