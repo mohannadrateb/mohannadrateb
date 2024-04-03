@@ -9,6 +9,9 @@
 🔗 Medium articles: https://medium.com/@mohannadrateb84
 ---
 ### About me
+  Data sience/analytics Masters graduate from university of hildesheim  
+  Did my bachelors in computer science and Enginnering  
+  
 <!--
 **mohannadrateb/mohannadrateb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
