@@ -1,4 +1,5 @@
-### Hi there, I'm mohannad 👋
+### Hi there, I'm mohannad! 👋
+---
 #### Data Scientist/Engineer with a focus on ML  
 <!--
 **mohannadrateb/mohannadrateb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
