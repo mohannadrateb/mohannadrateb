@@ -5,7 +5,7 @@
 📍Germany  
 📧 Email: mohannadrateb84@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/mohannad-rateb-683736145  
-👨‍💻 GitHub: https://github.com/mohannadrateb   
+👨‍💻 GitHub portfolio: https://github.com/mohannadrateb/Data-Science-Eng-Portfolio   
 🔗 Medium articles: https://medium.com/@mohannadrateb84
 ---
 
