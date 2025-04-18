@@ -11,7 +11,9 @@
 ---
 
 ### About me
-  Data sience/analytics Masters graduate from university of Hildesheim in Germany  
+  Freelancer Data Engineer for Rabbit, a quick-commerce company in Egypt, specializing in building scalable data pipelines
+  Data sience/analytics Masters graduate from university of Hildesheim in Germany
+  Master’s thesis completed at ABB (R&D), focused on multivariate time series classification and data science applications in industrial batch data
   Bachelors graduate in computer science and Enginnering
   
 ### Education 🎓 
